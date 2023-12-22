@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="age_options">
+        <item>40 or less</item>
+        <item>40-49</item>
+        <item>50-59</item>
+        <item>60 or older</item>
+    </string-array>
+
+    <string-array name="gender_options">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="physical_activity_options">
+        <item>none</item>
+        <item>less than 30 minutes</item>
+        <item>30 to 60 minutes</item>
+        <item>60 minutes or more</item>
+    </string-array>
+
+    <string-array name="pregnancy_options">
+        <item>less than 2 children</item>
+        <item>more than 2 children</item>
+    </string-array>
+
+    <string-array name="sleep_options">
+        <item>less than 8 hours</item>
+        <item>more than 8 hours</item>
+    </string-array>
+</resources>
