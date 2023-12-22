@@ -23,4 +23,6 @@ Diabetect is an app that can help you assess your diabetes risk and identify it 
 
 ## Application Demo
 
-Placeholder
+https://github.com/GrowTM/Capstone-CH2-PR6041/assets/110894711/98b41cef-47a3-4513-8f6d-7db080b915da
+
+
